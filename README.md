@@ -2,6 +2,7 @@
 
 Conforme foi exigido fizemos um pre-processamento de uma base de dados. Utilizamos uma base de dados do Kaggle de Apps do Google Play Store. Essa base é dividida em 13 colunas, mas só utilizamos 6, com o objetivo de identificar os Apps favoritos.
 
+Link do Colab: https://colab.research.google.com/drive/1t5ok9Xe6IDuNFHel477uyC0OvaNEoJBi?usp=sharing
 Base que utilizamos: https://www.kaggle.com/datasets/lava18/google-play-store-apps
 
 ## Descrição
